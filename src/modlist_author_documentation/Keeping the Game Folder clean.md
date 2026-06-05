@@ -6,7 +6,7 @@ In order to allow installing multiple modlists on the same system for the same g
 
 ## RootBuilder
 
-Since the author of the tool can describe it best, here an excerpt from their website:
+Since the author of the tool can describe it best, here is an excerpt from their website:
 
 > RootBuilder is a plugin for Mod Organizer 2, allowing users to manage files in the base game directory through Mod Organizer.
 >
